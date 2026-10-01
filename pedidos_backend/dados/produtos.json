@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Chia",
+        "preco": 29.9
+    },
+    {
+        "id": 2,
+        "nome": "Psyllium",
+        "preco": 44.9
+    },
+    {
+        "id": 3,
+        "nome": "Castanha do Pará",
+        "preco": 49.9
+    },
+    {
+        "id": 4,
+        "nome": "Castanha de Caju",
+        "preco": 35.9
+    }
+]
